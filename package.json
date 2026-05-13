@@ -1,0 +1,21 @@
+{
+  "name": "agentpay-hackernews-mcp",
+  "version": "1.1.0",
+  "description": "MCP server: Access HackerNews stories, comments, and user profiles with rate limiting + Pro tier",
+  "main": "server.py",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "ai-agent",
+    "hackernews",
+    "hn",
+    "agentpay"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rumblingb/hackernews-mcp.git"
+  },
+  "homepage": "https://rumblingb.github.io/hackernews-mcp/",
+  "author": "AgentPay Labs",
+  "license": "MIT"
+}
