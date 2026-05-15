@@ -1,6 +1,6 @@
 {
   "name": "agentpay-hackernews-mcp",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "MCP server: Access HackerNews stories, comments, and user profiles with rate limiting + Pro tier",
   "main": "server.py",
   "keywords": [
